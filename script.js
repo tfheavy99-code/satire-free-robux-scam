@@ -30,7 +30,7 @@ generateBtn.addEventListener('click', () => {
 
       setTimeout(() => {
         progressContainer.classList.add('hidden');
-        resultMessage.textContent = `Sorry, ${username}, no free Robux here! This is just a satire site to warn you about scams. Stay safe! 🚫💎`;
+        resultMessage.textContent = `Sorry, ${username}, never come here again, you really fell for this :cry: :cry: imagine `;
         resultMessage.classList.remove('hidden');
         generateBtn.disabled = false;
         usernameInput.disabled = false;
